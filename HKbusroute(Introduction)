@@ -1,0 +1,13 @@
+
+I am recently making a Bus Route system which can search all HK Bus route info such as the price, journey time and location
+from start to end. The core coding part is using python package - tkinter to build the UI and parse XML dataset by using 
+beautifulsoup package. It can be enhanced as AI chatbot with conversation function.
+
+XML Data Source from Data.Gov.HK
+
+Routes and fares of public transport (XML)
+https://data.gov.hk/en-data/dataset/hk-td-tis_14-routes-fares-xml
+
+
+
+ 
